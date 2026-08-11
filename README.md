@@ -164,3 +164,4 @@ See `supabase/duty-doctor-roster-schema.sql` for the full schema. Key tables:
 3. Add the `DATABASE_URL` environment variable in the Vercel project settings (use the **Transaction pooler** URL from Supabase for serverless compatibility).
 4. Deploy — Vercel auto-detects Next.js and builds correctly.
 # sample
+# sample
